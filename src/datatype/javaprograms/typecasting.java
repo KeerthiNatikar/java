@@ -9,8 +9,8 @@ public class typecasting {
 		System.out.println(p);
         */
 		
-		char x=0;
-		System.out.println(x);
+		
+		
 	}
 
 }
